@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "4e90e8214e297310",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e170e7810ebf979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499c9ce1eb03c765",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "材料使用看板.canvas",
+                "viewState": {
+                  "x": 1075.543512018744,
+                  "y": -759.8317295337823,
+                  "zoom": -0.8827485956807082
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "材料使用看板"
+            }
+          },
+          {
+            "id": "d85be8d67b222e45",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "CPS白皮书.md"
+              },
+              "icon": "lucide-file",
+              "title": "CPS白皮书"
+            }
+          },
+          {
+            "id": "8b47fc8c3024ca3f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "CPS建设指南.md"
+              },
+              "icon": "lucide-file",
+              "title": "CPS建设指南"
+            }
+          },
+          {
+            "id": "a9d9c73c60c848f4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "中国数字经济发展研究.md"
+              },
+              "icon": "lucide-file",
+              "title": "中国数字经济发展研究"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b43fdf86b2372695",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a951a1ebdd6d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e6ca1fe8e72601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0d2a55f1835b59f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d8ba480623252093",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64801c25f6bc48bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0230960bdd0f8fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440127e26745989c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPS白皮书2017.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CPS白皮书2017 的反向链接列表"
+            }
+          },
+          {
+            "id": "57e6e39ae3f340fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CPS白皮书2017.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CPS白皮书2017 的出链列表"
+            }
+          },
+          {
+            "id": "0be15d7b61e002fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "14266817ee0550dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPS白皮书2017.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CPS白皮书2017 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "499c9ce1eb03c765",
+  "lastOpenFiles": [
+    "行业/万联证券-现制茶饮行业深度报告.pdf",
+    "行业/H3_AP202406281636995325_1.pdf",
+    "行业/H3_AP202406281636995325_1.pdf.crdownload",
+    "行业/现制茶饮料术语分类基本要求.pdf",
+    "行业/现制茶饮料制作规范.pdf",
+    "数据流图案例.png",
+    "数据流图案例.png.crdownload",
+    "苏联作战实验室.jpg",
+    "苏联作战实验室.jpg.crdownload",
+    "思路稿.md",
+    "苏联雷达.jpg",
+    "苏联雷达.jpg.crdownload",
+    "苏联战车工厂.jpg",
+    "苏联战车工厂.jpg.crdownload",
+    "苏联建造场.jpg",
+    "苏联建造场.jpg.crdownload",
+    "CPS白皮书.md",
+    "材料使用看板.canvas",
+    "快速入行新茶饮：综述.md",
+    "行业/2022新式茶饮品牌经营白皮书(OCR).pdf",
+    "CPS建设指南.md",
+    "assets/CPS另一角度，用这张(1).png",
+    "assets/CPS建设指南2020_00.png",
+    "CPS建设指南2020_00.png",
+    "中国数字经济发展研究.md",
+    "assets/智能应用解决思路.png",
+    "assets/CPS在制造业的应用，白皮书找图.png",
+    "欢迎.md"
+  ]
+}

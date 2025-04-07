@@ -1,0 +1,504 @@
+{
+  "edges": [
+    {
+      "fromNode": "6f36e81aa5f6af24",
+      "fromSide": "top",
+      "id": "36c16fabea3c0b0e",
+      "styleAttributes": {
+      },
+      "toNode": "86cd5ad38d121e13",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "86cd5ad38d121e13",
+      "fromSide": "right",
+      "id": "3122c86c4c7f8d8a",
+      "label": "新质生产力",
+      "styleAttributes": {
+      },
+      "toNode": "9e3bede697b2b57b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "89bfbb1fa3c225ba",
+      "fromSide": "right",
+      "id": "1149daa730d075cb",
+      "styleAttributes": {
+      },
+      "toNode": "5f7a96155483f554",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9c86d2b1c0116826",
+      "fromSide": "left",
+      "id": "f4668d4dcc459501",
+      "styleAttributes": {
+      },
+      "toNode": "83f17badda43364a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8ef70b64efa2390e",
+      "fromSide": "bottom",
+      "id": "1563c5bad9923788",
+      "styleAttributes": {
+      },
+      "toNode": "21ac7e671186dc66",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c8aef577604e2505",
+      "fromSide": "right",
+      "id": "56552ffafa8bd590",
+      "styleAttributes": {
+      },
+      "toNode": "801241ea9fdb1809",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 580,
+      "id": "3d942af6c9951d9b",
+      "label": "外卖O2O行业参考",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 960,
+      "x": 1120,
+      "y": -64
+    },
+    {
+      "height": 609,
+      "id": "56f5f6b5f710c1c0",
+      "label": "CPS视角出发",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 887,
+      "x": -974,
+      "y": -800
+    },
+    {
+      "height": 738,
+      "id": "d00b1c18d29670ae",
+      "label": "社交平台相关",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 420,
+      "x": 440,
+      "y": 547
+    },
+    {
+      "height": 680,
+      "id": "c8aef577604e2505",
+      "label": "新质生产力与新茶饮高质量发展路径",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 380,
+      "x": -474,
+      "y": 576
+    },
+    {
+      "height": 540,
+      "id": "b564d2c3cd21c292",
+      "label": "信息化发展背景",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 408,
+      "x": -974,
+      "y": -44
+    },
+    {
+      "height": 540,
+      "id": "aa0cd26775630a1d",
+      "label": "产业分类(Done)",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 406,
+      "x": -534,
+      "y": -44
+    },
+    {
+      "height": 260,
+      "id": "3e48389c0feefd66",
+      "label": "经济学框架",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -974,
+      "y": 1336
+    },
+    {
+      "height": 113,
+      "id": "5f7a96155483f554",
+      "styleAttributes": {
+      },
+      "text": "无需纠结，但可作为问答库表明和制造业紧密相关，总体属于餐饮服务业",
+      "type": "text",
+      "width": 260,
+      "x": -45,
+      "y": 295
+    },
+    {
+      "file": "行业/2021中国新式茶饮行业研究报告.pdf",
+      "height": 330,
+      "id": "867cc9f6314ae641",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 443,
+      "x": 65,
+      "y": -392
+    },
+    {
+      "height": 60,
+      "id": "801241ea9fdb1809",
+      "styleAttributes": {
+      },
+      "text": "详细参考《中国数字经济发展研究》",
+      "type": "text",
+      "width": 260,
+      "x": -45,
+      "y": 896
+    },
+    {
+      "file": "行业/2024年新茶饮增长洞察白皮书_安永_2024.pdf",
+      "height": 577,
+      "id": "2320e5dfb1125b71",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1054,
+      "y": -778
+    },
+    {
+      "file": "行业/2024中国新茶饮供应链白皮书(OCR).pdf",
+      "height": 570,
+      "id": "1d3b86aaee572074",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1500,
+      "y": -771
+    },
+    {
+      "file": "行业/2023新茶饮研究报告(OCR).pdf",
+      "height": 579,
+      "id": "a2b13c7901201ca5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 608,
+      "y": -780
+    },
+    {
+      "height": 120,
+      "id": "ece83a6f8ec07d36",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "指导行业发展",
+      "type": "text",
+      "width": 80,
+      "x": -194,
+      "y": 1116
+    },
+    {
+      "file": "行业/新质生产力视域下新茶饮行业高质量发展路径探索_王阳.pdf",
+      "height": 511,
+      "id": "9e3bede697b2b57b",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 340,
+      "x": -454,
+      "y": 596
+    },
+    {
+      "file": "CPS建设指南2020.pdf",
+      "height": 569,
+      "id": "6f32591e64ced391",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 400,
+      "x": -515,
+      "y": -780
+    },
+    {
+      "file": "行业/2004国际标准产业分类.pdf",
+      "height": 520,
+      "id": "19475eb286382f66",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 360,
+      "x": -508,
+      "y": -24
+    },
+    {
+      "height": 60,
+      "id": "3457e664d9535aa0",
+      "styleAttributes": {
+      },
+      "text": "新质生产力作为生产力",
+      "type": "text",
+      "width": 260,
+      "x": -454,
+      "y": 1116
+    },
+    {
+      "height": 60,
+      "id": "59802a1a584daf5b",
+      "styleAttributes": {
+      },
+      "text": "行业价值需求",
+      "type": "text",
+      "width": 260,
+      "x": -454,
+      "y": 1176
+    },
+    {
+      "file": "行业/2019-2024年中国新式茶饮行业研究报告.pdf",
+      "height": 285,
+      "id": "0aa60588b841f607",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 443,
+      "x": 65,
+      "y": -780
+    },
+    {
+      "file": "思路稿.md",
+      "height": 300,
+      "id": "e0a100a658e813cb",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 880,
+      "x": -120,
+      "y": -1120
+    },
+    {
+      "height": 50,
+      "id": "6f36e81aa5f6af24",
+      "styleAttributes": {
+      },
+      "text": "提供经济解释**框架**与政策依据",
+      "type": "text",
+      "width": 368,
+      "x": -962,
+      "y": 1176
+    },
+    {
+      "height": 60,
+      "id": "4be4e8e4e5ddec3a",
+      "styleAttributes": {
+      },
+      "text": "供给",
+      "type": "text",
+      "width": 260,
+      "x": -954,
+      "y": 1356
+    },
+    {
+      "height": 60,
+      "id": "459814de616fb6f2",
+      "styleAttributes": {
+      },
+      "text": "市场",
+      "type": "text",
+      "width": 260,
+      "x": -954,
+      "y": 1436
+    },
+    {
+      "height": 60,
+      "id": "9c74d1a3c2b0063a",
+      "styleAttributes": {
+      },
+      "text": "需求",
+      "type": "text",
+      "width": 260,
+      "x": -954,
+      "y": 1516
+    },
+    {
+      "file": "中国数字经济发展研究.pdf",
+      "height": 511,
+      "id": "86cd5ad38d121e13",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 368,
+      "x": -962,
+      "y": 616
+    },
+    {
+      "height": 60,
+      "id": "11ab7f0945fdc15a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "支撑性的信息化发展",
+      "type": "text",
+      "width": 366,
+      "x": -954,
+      "y": 314
+    },
+    {
+      "file": "CPS白皮书2017.pdf",
+      "height": 569,
+      "id": "708b07fa63784146",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 400,
+      "x": -962,
+      "y": -780
+    },
+    {
+      "file": "国家信息化发展报告（2023年）.pdf",
+      "height": 500,
+      "id": "3b0c93753636228a",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 368,
+      "x": -956,
+      "y": -24
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "708095fd771a9c66",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "# 且将新火试新茶——信息物理系统驱动新茶饮产业探究",
+      "type": "text",
+      "width": 880,
+      "x": -120,
+      "y": -1200
+    },
+    {
+      "height": 280,
+      "id": "89bfbb1fa3c225ba",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "D 15XX 食品及饮料的制造\n1. **中央厨房/原料工厂**：归类为 **D类（C10食品制造）**，独立核算其预制半成品生产活动；\n2. **门店现制服务**：仍归入 **G类（餐饮服务）**；\n3. **品牌管理与营销**：可能涉及 **M类（专业服务）**或 **J类（信息传输）**（如数字化会员系统）。",
+      "type": "text",
+      "width": 440,
+      "x": -548,
+      "y": 226
+    },
+    {
+      "file": "行业/2022新式茶饮品牌经营白皮书(OCR).pdf",
+      "height": 518,
+      "id": "791f351909e92ec9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 608,
+      "y": -110
+    },
+    {
+      "file": "行业/2023抖音新茶饮赛道专题报告.pdf",
+      "height": 540,
+      "id": "e610f2a94fd473b5",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 380,
+      "x": 469,
+      "y": 567
+    },
+    {
+      "height": 60,
+      "id": "2131cadfb92b711b",
+      "styleAttributes": {
+      },
+      "text": "生活服务生态(带案例)",
+      "type": "text",
+      "width": 380,
+      "x": 469,
+      "y": 1137
+    },
+    {
+      "height": 60,
+      "id": "3bdadb0b5af593e1",
+      "styleAttributes": {
+      },
+      "text": "宣传销售",
+      "type": "text",
+      "width": 260,
+      "x": 469,
+      "y": 1205
+    },
+    {
+      "file": "行业/美团2023企业社会责任报告.pdf",
+      "height": 540,
+      "id": "83f17badda43364a",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1149,
+      "y": -46
+    },
+    {
+      "height": 62,
+      "id": "9c86d2b1c0116826",
+      "styleAttributes": {
+      },
+      "text": "产业篇可参考，技术和产业",
+      "type": "text",
+      "width": 437,
+      "x": 1600,
+      "y": -46
+    },
+    {
+      "height": 60,
+      "id": "8ef70b64efa2390e",
+      "styleAttributes": {
+      },
+      "text": "无关但可以参考服务环节",
+      "type": "text",
+      "width": 437,
+      "x": 1600,
+      "y": 96
+    },
+    {
+      "file": "行业/2016中国外卖O2O行业发展报告.pdf",
+      "height": 316,
+      "id": "21ac7e671186dc66",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "type": "file",
+      "width": 437,
+      "x": 1600,
+      "y": 178
+    }
+  ]
+}
